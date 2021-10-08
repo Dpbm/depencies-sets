@@ -1,2 +1,6 @@
 # tests folder
 /tests
+/modules/pipenv/types/test.txt
+/modules/poetry/types/pyproject.toml
+# vscode settings
+.vscode
