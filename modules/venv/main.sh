@@ -16,5 +16,5 @@ read envType
 types=(data math security web) 
 
 source bin/activate
-pip install -r ~/anacondaStarterKit/modules/pipenv/types/${types[$envType]}.txt
+pip install -r ~/VENVstarterKit/modules/pipenv/types/${types[$envType]}.txt
 
