@@ -10,11 +10,10 @@ echo "data science [0]"
 echo "math         [1]"
 echo "security     [2]"
 echo "web          [3]"
-echo "test         [4]"
 
 read envType
 
-types=(data math security web test) 
+types=(data math security web) 
 
 source bin/activate
 pip install -r ~/anacondaStarterKit/modules/pipenv/types/${types[$envType]}.txt
