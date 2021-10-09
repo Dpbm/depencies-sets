@@ -22,7 +22,7 @@ echo "selected ➡️  ${types[index]}"
 tput sgr0
 
 
-sh ./modules/${types[index]}/main.sh
+sh ~/anacondaStarterKit/modules/${types[index]}/main.sh
 
 
 
