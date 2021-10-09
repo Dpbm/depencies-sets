@@ -20,5 +20,5 @@ read envType
 
 types=(data math security web)
 
-sh ~/anacondaStarterKit/modules/anaconda/types/${types[$envType]}.sh
+sh ~/VENVstarterKit/modules/anaconda/types/${types[$envType]}.sh
 

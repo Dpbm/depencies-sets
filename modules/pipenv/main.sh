@@ -17,5 +17,5 @@ types=(data math security web)
 
 pipenv shell
 
-pipenv install -r ~/anacondaStarterKit/modules/pipenv/types/${types[$envType]}.txt
+pipenv install -r ~/VENVstarterKit/modules/pipenv/types/${types[$envType]}.txt
 
