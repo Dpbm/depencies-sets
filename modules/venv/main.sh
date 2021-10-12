@@ -14,6 +14,6 @@ echo "web          [3]"
 read envType
 
 types=(data math security web) 
-
+source /bin/activate
 pip install -r ~/VENVstarterKit/modules/pipenv/types/${types[$envType]}.txt
 
