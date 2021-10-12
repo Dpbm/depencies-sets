@@ -15,6 +15,6 @@ read envType
 
 types=(data math security web)
 
-
+pipenv shell
 pipenv install -r ~/VENVstarterKit/modules/pipenv/types/${types[$envType]}.txt
 
