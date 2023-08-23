@@ -1,7 +1,7 @@
-numpy 
+numpy
 matplotlib 
-dask 
-seaborn 
+dask
+seaborn
 requests
 pandas
 jupyterlab 
@@ -25,5 +25,5 @@ scikit-image
 pillow 
 beautifulsoup4 
 pytorch 
-bokeh 
-
+bokeh
+jax
